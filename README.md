@@ -4,7 +4,6 @@
 💡 Programmer specializing in "web development". <br>
 🌐 Aspiring Software Developer | Frontend & Backend Enthusiast.<br>
 💻 Learning, building, and growing every day in the world of technology.<br>
-🌟 Crafting seamless web experiences, one pixel and one line of code at a time.<br>
 <br>
 📚 Currently Studying:<br>
 ● Programming Languages: C++, Java, Java OOP. <br>
