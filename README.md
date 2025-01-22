@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Tamara!
+<br>
 
 💡 Programmer specializing in "web development". <br>
 🌐 Aspiring Software Developer | Frontend & Backend Enthusiast.<br>
