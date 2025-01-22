@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Tamara!
+💡 Programmer specializing in "web development"
+🌐 Aspiring Software Developer | Frontend & Backend Enthusiast
+💻 Learning, building, and growing every day in the world of technology.
+🌟 Crafting seamless web experiences, one pixel and one line of code at a time.
 
-<!--
-**tamaratumeh/tamaratumeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 Currently Studying:
+Programming Languages: C++, Java, Java OOP
+Core Concepts: Data Structures, Algorithms
+Frontend Development: HTML, CSS, JavaScript
+Backend Development:php
 
-Here are some ideas to get you started:
+🔭 Working on: Small projects to apply my knowledge and enhance my skills.
+🌱 Learning Goals: Mastering web development and exploring backend technologies.
+💡 Passionate about: Solving problems, designing efficient algorithms, and creating intuitive user interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+لا
+لاشؤن
+
+
+
