@@ -45,10 +45,11 @@
 
 ### 
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: stretch;">
   <img src="https://github-readme-stats.vercel.app/api?username=tamaratumeh&show_icons=true&theme=radical&hide_border=true&rank_icon=github" width="450" height="250"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamaratumeh&layout=compact&theme=radical&hide_border=true&card_width=450" width="450" height="250"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamaratumeh&layout=compact&theme=radical&hide_border=true&card_width=450&custom_title=Most%20Used%20Languages" width="450" height="250"/>
 </div>
+
 
 
 
