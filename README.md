@@ -43,9 +43,10 @@
   </a>
 </div>
 
-###  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tamaratumeh&show_icons=true&theme=radical&layout=compact&hide=prs,issues)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tamaratumeh&layout=compact&show_icons=true&theme=radical&hide=prs,issues) 
+### 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tamaratumeh&show_icons=true&theme=radical&card_width=500)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tamaratumeh&layout=compact&theme=radical&card_width=500)
+ 
 ![GitHub Grade](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&rank_icon=github)
 
 
