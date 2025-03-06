@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🚀 About Me<br><br>🔹 Full Stack Developer passionate about building scalable and efficient web applications.<br>🔹 Aspiring Software Developer | Frontend & Backend Enthusiast.<br>🔹 Constantly learning and exploring new tools to improve development workflows.</p>
+<p align="left">🚀 About Me<br>🔹 Full Stack Developer passionate about building scalable and efficient web applications.<br>🔹 Aspiring Software Developer | Frontend & Backend Enthusiast.<br>🔹 Constantly learning and exploring new tools to improve development workflows.</p>
 
 ###
 
