@@ -47,7 +47,7 @@
 
 <div style="display: flex; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=tamaratumeh&show_icons=true&theme=radical&hide_border=true&rank_icon=github" width="450" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamaratumeh&layout=compact&theme=radical&hide_border=true&card_width=450"card_hight=200" width="450" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamaratumeh&layout=compact&theme=radical&hide_border=true&card_width=450"card_hight=400" width="450" height="200"/>
 </div>
 
 
