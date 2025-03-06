@@ -45,7 +45,15 @@
 
 ### 
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tamaratumeh&show_icons=true&theme=radical&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tamaratumeh&layout=compact&theme=radical&hide_border=true&card_width=450&langs_count=10)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=tamaratumeh&show_icons=true&theme=radical&hide_border=true&icon_color=ffffff" width="450"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamaratumeh&layout=compact&theme=radical&hide_border=true&card_width=450&langs_count=10" width="450"/>
+    </td>
+  </tr>
+</table>
 
 
