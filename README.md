@@ -46,6 +46,6 @@
 ### 
 
 ![GitHub Grade](https://github-readme-stats.vercel.app/api?username=tamaratumeh&show_icons=true&theme=radical&rank_icon=github)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tamaratumeh&theme=radical&hide_border=true&langs_count=8&custom_title=MostUsedProgrammingLanguagesOverview)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tamaratumeh&theme=radical&hide_border=true&langs_count=6&custom_title=MostUsedProgrammingLanguagesOverview)
 
 
