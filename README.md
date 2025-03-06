@@ -44,12 +44,8 @@
 </div>
 
 ###  
-<a href="https://github.com/tamaratumeh">
-  <img src="https://github-readme-stats.vercel.app/api?username=tamaratumeh&show_icons=true&theme=radical&layout=compact" width="400" height="200"/>
-</a>
-<a href="https://github.com/tamaratumeh">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamaratumeh&layout=compact&theme=radical" width="400" height="170"/>
-</a>
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tamaratumeh&show_icons=true&theme=radical&layout=compact&hide=prs,issues)
+
 
 ![GitHub Grade](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&rank_icon=github)
 
