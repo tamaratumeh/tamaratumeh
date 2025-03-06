@@ -45,15 +45,10 @@
 
 ### 
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=tamaratumeh&show_icons=true&theme=radical&hide_border=true&icon_color=ffffff" width="450"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamaratumeh&layout=compact&theme=radical&hide_border=true&card_width=450&langs_count=10" width="450"/>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=tamaratumeh&show_icons=true&theme=radical&hide_border=true&rank_icon=github" width="450" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamaratumeh&layout=compact&theme=radical&hide_border=true&card_width=450" width="450" height="200"/>
+</div>
+
 
 
