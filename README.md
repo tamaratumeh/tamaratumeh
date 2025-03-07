@@ -1,10 +1,6 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Tamara Tumeh" />
+  <img src="https://raw.githubusercontent.com/tamaratumeh/tamaratumeh/master/name.svg" alt="Tamara Tumeh" />
 </h1>
-
-
-
-
 <h2 align="left">👋 Hi there,</h2>
 
 ###
