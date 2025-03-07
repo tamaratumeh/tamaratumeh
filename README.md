@@ -27,9 +27,9 @@
 </div>
 
 ###
-<div align= "center"  style="display: flex; align-items: center; justify-content: center; padding: 20px;">
-  <div style="display: grid; flex-direction: column; gap: 30px;">
-    <div style="display: flex; gap: 12px;  margin-bottom: 70px;">
+ <div align= "center"  style="display: flex; align-items: center; justify-content: center; padding: 20px;">
+   <div style="display: grid; flex-direction: column; gap: 30px;">
+     <div style="display: flex; gap: 12px;  margin-bottom: 70px;">
       ![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=flat-square&logo=openjdk&logoColor=white)  
       ![C++](https://img.shields.io/badge/-C++-%2300599C?style=flat-square&logo=c%2B%2B&logoColor=white)
       ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
