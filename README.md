@@ -14,11 +14,20 @@
 
 ###
 
-<h4 align="left">I code with</h4>
+<div style="display: flex; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=tamaratumeh&show_icons=true&theme=dark&hide_border=true" 
+       alt="GitHub Stats"
+       height="200px"
+       width="335px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamaratumeh&layout=compact&theme=dark&hide_border=true" 
+       alt="Top Languages"
+       height="200px"
+       width="300px"/>
+</div>
 
 ###
-
-<div align="left">
+<h4 align="center">I code with</h4>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -33,8 +42,8 @@
 </div>
 
 ###
-<h4 align="left">Connect with Me</h4>
-<div align="left">
+<h4 align="center">Connect with Me</h4>
+<div align="center">
     <a href="mailto:tamaratumeh5@gmail.com" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
         </a>
@@ -43,21 +52,7 @@
   </a>
 </div>
 
-### 
-
-
-
-<div style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=tamaratumeh&show_icons=true&theme=dark&hide_border=true" 
-       alt="GitHub Stats"
-       height="200px"
-       width="335px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamaratumeh&layout=compact&theme=dark&hide_border=true" 
-       alt="Top Languages"
-       height="200px"
-       width="300px"/>
-</div>
-
+###
 
 
 
