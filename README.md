@@ -28,7 +28,7 @@
 
 ###
 <div align= "center"  style="display: flex; align-items: center; justify-content: center; padding: 20px;">
-  <div style="display: flex; flex-direction: column; gap: 30px;">
+  <div style="display: grid; flex-direction: column; gap: 30px;">
     <div style="display: flex; gap: 12px;  margin-bottom: 70px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
@@ -47,7 +47,6 @@
     </div>
   </div>
 
-  <!-- صورة GitHub بجانب العناصر -->
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Cat" width="120">
 </div>
 
