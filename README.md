@@ -43,10 +43,8 @@
       </a>
       <a href="https://www.linkedin.com/in/tamara-tumeh-558678350/" target="_blank">
         <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-
       </a>
     </div>
   </div>
-
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Cat" width="120">
+  <img src="[https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png](https://imgur.com/3Bc861z)" alt="GitHub Cat" width="120">
 </div>
