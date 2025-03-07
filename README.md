@@ -1,4 +1,4 @@
-<h1 align="left">👋 Hi there,</h1>
+<h2 align="left">👋 Hi there,</h2>
 
 ###
 
@@ -15,7 +15,8 @@
 ###
 <img src="https://raw.githubusercontent.com/tamaratumeh/REPOSITORY/main/assets/animated-pink-line.svg">
 <br>
-<div align= "center" style="display: flex; justify-content: center;gap: 40px; ">
+<h4 align="left">🔹 📊 My GitHub Performance Overview.</h4>
+<div align= "left" style="display: flex; justify-content: center;gap: 40px; ">
   <img src="https://github-readme-stats.vercel.app/api?username=tamaratumeh&show_icons=true&theme=dark&hide_border=true" 
        alt="GitHub Stats"
        height="200px"
@@ -27,10 +28,11 @@
 </div>
 
 ###
-<div align= "center"  style="display: flex; align-items: center; justify-content: center; padding: 20px;">
+<div align= "left"  style="display: flex; align-items: center; justify-content: center; padding: 20px;">
 <div style="display: grid; flex-direction: column; gap: 30px;">
 <div style="display: flex; gap: 12px;  margin-bottom: 70px;">
-  
+<h4 align="left">🔹👩‍💻 Coding Proficiency Breakdown</h4>
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E44D27?style=for-the-badge&logo=html5&logoColor=white)
