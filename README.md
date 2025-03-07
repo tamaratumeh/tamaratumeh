@@ -13,7 +13,7 @@
 <p align="left">🛠️ Tech Stack<br>🔹 Frontend: HTML, CSS, JavaScript, React.js.<br>🔹 Backend: php.<br>🔹 Databases:  MySQL.</p>
 
 ###
-<hr style="height:2px; border-width:0; color:pink; background-color:pink">
+<img src="https://raw.githubusercontent.com/tamara-tumeh/custom-assets/main/animated-pink-line.svg">
 <br>
 <div align= "center" style="display: flex; justify-content: center;gap: 40px; ">
   <img src="https://github-readme-stats.vercel.app/api?username=tamaratumeh&show_icons=true&theme=dark&hide_border=true" 
