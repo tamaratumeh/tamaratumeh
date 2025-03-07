@@ -13,7 +13,7 @@
 <p align="left">🛠️ Tech Stack<br>🔹 Frontend: HTML, CSS, JavaScript, React.js.<br>🔹 Backend: php.<br>🔹 Databases:  MySQL.</p>
 
 ###
-<hr>
+<hr style="height:2px; border-width:0; background: linear-gradient(to right, #ff66b2, #ff1493, #ff69b4);">
 <br>
 <div align= "center" style="display: flex; justify-content: center;gap: 40px; ">
   <img src="https://github-readme-stats.vercel.app/api?username=tamaratumeh&show_icons=true&theme=dark&hide_border=true" 
@@ -49,14 +49,3 @@
 
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Cat" width="120">
 </div>
-
-
-
-
-###
-
-
-
-
-
-
