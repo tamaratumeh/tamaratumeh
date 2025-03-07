@@ -47,7 +47,7 @@
  </div>
 </div>
 
- <div style="margin-right: 450px;">
+ <div style="margin-right: 250px;">
    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Cat" width="120">
  </div>
 </div>
