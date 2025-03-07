@@ -1,4 +1,4 @@
-<h1 align="left">👋 Hi there,</h1>
+![undefined - Imgur](https://github.com/user-attachments/assets/b5c8fe71-dfdc-4b17-9599-38d7f35ac3eb)![undefined - Imgur](https://github.com/user-attachments/assets/5fd71fff-3e38-4520-af13-744c82d0e3f8)<h1 align="left">👋 Hi there,</h1>
 
 ###
 
@@ -46,5 +46,6 @@
       </a>
     </div>
   </div>
-  <img src="[https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png](https://imgur.com/3Bc861z)" alt="GitHub Cat" width="120">
+  <img src="undefined - Imgur.gif" alt="GitHub Cat" width="120">
 </div>
+
