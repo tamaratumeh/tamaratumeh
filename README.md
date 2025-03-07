@@ -47,7 +47,7 @@
 
 
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div style="display: flex; justify-content: center;">
 
   <img src="https://github-readme-stats.vercel.app/api?username=tamaratumeh&show_icons=true&theme=dark&hide_border=true" 
        alt="GitHub Stats"
