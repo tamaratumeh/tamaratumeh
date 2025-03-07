@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="tamaratumeh" />
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="tamaratumeh" /> Tamara Tumeh
 </h1>
 <h2 align="left">👋 Hi there,</h2>
 
