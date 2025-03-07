@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/tamaratumeh/my-repo/main/assets/tamaratumeh.svg" alt="tamaratumeh" />
+<img src="https://raw.githubusercontent.com/tamaratumeh/tamaratumeh/main/name.svg" alt="tamaratumeh" />
 
 <h2 align="left">👋 Hi there,</h2>
 
