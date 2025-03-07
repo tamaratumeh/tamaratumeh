@@ -29,8 +29,8 @@
 <div align= "left"  style="display: flex; align-items: center; justify-content: center; padding: 20px;">
 <div style="display: grid; flex-direction: column; gap: 30px;">
 <div style="display: flex; gap: 12px;  margin-bottom: 70px;">
-🔹<img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" />&nbsp; **Coding Proficiency Breakdown**. 
-
+  
+🔹 <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; **Coding Proficiency Breakdown** . 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E44D27?style=for-the-badge&logo=html5&logoColor=white)
