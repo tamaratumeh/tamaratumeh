@@ -1,17 +1,4 @@
-<p align="center">
-  <svg width="100%" height="100" viewBox="0 0 1000 100" xmlns="http://www.w3.org/2000/svg">
-    <text x="50%" y="50%" font-size="60" font-family="Arial, sans-serif" fill="url(#gradient)" text-anchor="middle" dominant-baseline="middle">
-      tamaratumeh
-    </text>
-    <defs>
-      <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#ff4b8b; stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#ff86c8; stop-opacity:1" />
-      </linearGradient>
-    </defs>
-  </svg>
-</p>
-
+<img src="https://raw.githubusercontent.com/tamaratumeh/my-repo/main/assets/tamaratumeh.svg" alt="tamaratumeh" />
 
 <h2 align="left">👋 Hi there,</h2>
 
