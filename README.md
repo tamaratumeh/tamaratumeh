@@ -11,6 +11,7 @@
 ###
 
 <p align="left">🛠️ Tech Stack<br>🔹 Frontend: HTML, CSS, JavaScript, React.js.<br>🔹 Backend: php.<br>🔹 Databases:  MySQL.</p>
+<hr>
 
 ###
 <br>
