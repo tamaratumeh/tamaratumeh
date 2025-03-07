@@ -27,9 +27,9 @@
 </div>
 
 ###
-<div style="display: flex; align-items: center; padding: 20px;">
+<div style="display: flex; align-items: center; justify-content: space-between; padding: 20px;">
   <!-- القسم الأيسر: الأيقونات وأزرار التواصل -->
-  <div style="display: flex; flex-direction: column; gap: 25px; flex: 1;">
+  <div style="display: flex; flex-direction: column; gap: 20px;">
     <div style="display: flex; gap: 12px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
@@ -48,11 +48,10 @@
     </div>
   </div>
 
-  <!-- القسم الأيمن: صورة GitHub -->
-  <div style="margin-left: 50px;">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Cat" width="120">
-  </div>
+  <!-- صورة GitHub بجانب العناصر -->
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Cat" width="120">
 </div>
+
 
 
 
