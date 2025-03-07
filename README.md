@@ -1,3 +1,11 @@
+<div align="center" width="50">
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
+
+<details>
+
+
 <h2 align="left">👋 Hi there,</h2>
 
 ###
@@ -13,7 +21,6 @@
 <p align="left">🛠️ Tech Stack<br>🔹 Frontend: HTML, CSS, JavaScript, React.js.<br>🔹 Backend: php.<br>🔹 Databases:  MySQL.</p>
 
 ###
-<img src="https://raw.githubusercontent.com/tamaratumeh/REPOSITORY/main/assets/animated-pink-line.svg">
 <br>
 <h4 align="left">🔹 📊 My GitHub Performance Overview.</h4>
 <div align= "left" style="display: flex; justify-content: center;gap: 40px; ">
