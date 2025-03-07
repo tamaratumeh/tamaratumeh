@@ -1,7 +1,7 @@
 
 <img src="https://raw.githubusercontent.com/tamaratumeh/tamaratumeh/main/name.svg" alt="Tamara Tumeh" />
-<h4 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! </h4>
-<h4 align="left">My name is Tamara tumeh and I'm a full stack Developer.</h4>
+<h4 ><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! </h4>
+<h5 align="left">My name is Tamara tumeh and I'm a full stack Developer.</h5>
 
 ###
 
