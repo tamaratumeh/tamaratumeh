@@ -27,7 +27,7 @@
 </div>
 
 ###
- <div style="display: flex; justify-content: space-around; align-items: center; padding: 20px;">
+ <div style="display: flex;  align-items: center; padding: 20px;">
  <div style="display: flex; flex-direction: column; gap: 25px;">
  <div style="display: flex; gap: 12px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
