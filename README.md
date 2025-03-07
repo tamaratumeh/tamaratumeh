@@ -1,5 +1,6 @@
 
 <img src="https://raw.githubusercontent.com/tamaratumeh/tamaratumeh/main/name.svg" alt="Tamara Tumeh" />
+<hr>
 <h4 ><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! </h4>
 <h5 align="left">My name is Tamara tumeh and I'm a full stack Developer.</h5>
 
@@ -30,7 +31,7 @@
 <div align= "left"  style="display: flex; align-items: center; justify-content: center; padding: 20px;">
 <div style="display: grid; flex-direction: column; gap: 30px;">
 <div style="display: flex; gap: 12px;  margin-bottom: 70px;">
-  
+<hr>
 🔹 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp; **Coding Proficiency Breakdown**.<br> <br> 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
