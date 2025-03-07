@@ -45,10 +45,9 @@
 
 ### 
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=tamaratumeh&show_icons=true&theme=radical&hide_border=true&rank_icon=github" style="width: 450px; height: 300px;"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamaratumeh&layout=compact&theme=radical&hide_border=true&card_width=450" style="width: 450px; height: 300px;"/>
-</div>
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark)
+
 
 
 
