@@ -51,7 +51,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=tamaratumeh&show_icons=true&theme=dark&hide_border=true" 
        alt="GitHub Stats"
        height="200px"
-       width="330px"/>
+       width="340px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamaratumeh&layout=compact&theme=dark&hide_border=true" 
        alt="Top Languages"
        height="200px"
