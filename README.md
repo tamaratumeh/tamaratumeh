@@ -27,7 +27,7 @@
 </div>
 
 ###
-<div style="display: flex; align-items: center; justify-content: space-between; padding: 20px;">
+<div align= "center"  style="display: flex; align-items: center; justify-content: center; padding: 20px;">
   <!-- القسم الأيسر: الأيقونات وأزرار التواصل -->
   <div style="display: flex; flex-direction: column; gap: 20px;">
     <div style="display: flex; gap: 12px;">
