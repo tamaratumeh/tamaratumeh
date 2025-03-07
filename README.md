@@ -46,6 +46,6 @@
       </a>
     </div>
   </div>
-  <img src="undefined - Imgur.gif" alt="GitHub Cat" width="120">
+  <img src="undefined - Imgur.gif"alt="GitHub Cat" width="120">
 </div>
 
