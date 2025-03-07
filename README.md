@@ -1,4 +1,4 @@
-<h1 align="left">👋 Hi there, I'm Tamara!</h1>
+<h1 align="left">👋 Hi there,</h1>
 
 ###
 
@@ -27,8 +27,9 @@
 </div>
 
 ###
-<h4 align="center">I code with</h4>
-<div align="center">
+<div style="display: flex; justify-content: center;">
+  <div align="left">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -42,15 +43,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
 
-###
-<h4 align="center">Connect with Me</h4>
-<div align="center">
+<div align="left">
     <a href="mailto:tamaratumeh5@gmail.com" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
         </a>
   <a href="https://www.linkedin.com/in/tamara-tumeh-558678350/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
+</div>
+</div>
+<div align="right">
+<p align="right">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Cat" width="120">
+</p>
+
+</div>
 </div>
 
 ###
