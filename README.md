@@ -1,7 +1,6 @@
 <div align="center" width="50">
 
-<img src="https://github.com/tamaratumeh/tamaratumeh/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/tamaratumeh" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/tamaratumeh/tamaratumeh/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/tamaratumeh" alt="Workspace"  width="40%"/><br>
+
 
 
 <h2 align="left">👋 Hi there,</h2>
@@ -58,4 +57,7 @@
   </div>
   <img src="undefined - Imgur.gif"alt="GitHub Cat" width="120">
 </div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=60&section=footer"/>
+</p>
 
