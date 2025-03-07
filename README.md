@@ -49,12 +49,12 @@
 
 <div style="display: flex; justify-content: center; gap: 10px;">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true" 
+  <img src="https://github-readme-stats.vercel.app/api?username=tamaratumeh&show_icons=true&theme=dark&hide_border=true" 
        alt="GitHub Stats"
        height="200px"
        width="450px"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true" 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamaratumeh&layout=compact&theme=dark&hide_border=true" 
        alt="Top Languages"
        height="200px"
        width="450px"/>
