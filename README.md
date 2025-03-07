@@ -26,7 +26,6 @@
        height="200px"
        width="320px"/>
 </div>
-<hr>
 
 ###
 
