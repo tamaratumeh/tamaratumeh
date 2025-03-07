@@ -28,8 +28,8 @@
 
 ###
 <div style="display: flex; justify-content: center;">
-  <div align="left">
-<div align="left" style="gap: 10px;">
+  <div align="left"style="gap: 15px; margin-left: 20px;">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
