@@ -41,7 +41,10 @@
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
     </div>
     <div style="display: flex; gap: 12px;">
-🔹 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp;<h4> Let's Connect</h4>
+<div style="display: inline-flex; align-items: center; gap: 8px;">
+  🔹 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />
+  <h4 style="margin: 0;">Let's Connect</h4>
+</div>
       <a href="mailto:tamaratumeh5@gmail.com" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
       </a>
