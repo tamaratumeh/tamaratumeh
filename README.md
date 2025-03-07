@@ -28,8 +28,7 @@
 
 ###
 <div align= "center"  style="display: flex; align-items: center; justify-content: center; padding: 20px;">
-  <!-- القسم الأيسر: الأيقونات وأزرار التواصل -->
-  <div style="display: flex; flex-direction: column; gap: 20px;">
+  <div style="display: flex; flex-direction: column; gap: 30px;">
     <div style="display: flex; gap: 12px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
