@@ -15,7 +15,7 @@
 ###
 <hr>
 <br>
-<div align= "center" style="display: flex; justify-content: center;">
+<div align= "center" style="display: flex; justify-content: center;gap: 20px; ">
   <img src="https://github-readme-stats.vercel.app/api?username=tamaratumeh&show_icons=true&theme=dark&hide_border=true" 
        alt="GitHub Stats"
        height="200px"
