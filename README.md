@@ -34,7 +34,7 @@
 <div style="display: grid; flex-direction: column; gap: 30px;">
 <div style="display: flex; gap: 12px;  margin-bottom: 70px;">
   
-🔹 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp; **Coding Proficiency Breakdown**.<br> <br> 
+🔹 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> &nbsp; **Coding Proficiency Breakdown**.<br> <br> 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E44D27?style=for-the-badge&logo=html5&logoColor=white)
@@ -47,7 +47,7 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
     </div>
     <div style="display: flex; gap: 12px;">
-🔹 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; **Let's Connect**. <br><br> 
+🔹 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="35" />&nbsp;&nbsp; **Let's Connect**. <br><br> 
       <a href="mailto:tamaratumeh5@gmail.com" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
       </a>
