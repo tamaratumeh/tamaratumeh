@@ -1,4 +1,4 @@
-![undefined - Imgur](https://github.com/user-attachments/assets/b5c8fe71-dfdc-4b17-9599-38d7f35ac3eb)![undefined - Imgur](https://github.com/user-attachments/assets/5fd71fff-3e38-4520-af13-744c82d0e3f8)<h1 align="left">👋 Hi there,</h1>
+<h1 align="left">👋 Hi there,</h1>
 
 ###
 
