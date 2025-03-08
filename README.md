@@ -14,6 +14,9 @@
 ###
 
 <p align="left">🛠️ Tech Stack<br>🔹 Frontend: HTML, CSS, JavaScript, React.js.<br>🔹 Backend: php.<br>🔹 Databases:  MySQL.</p>
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp; Transforming ideas into reality with clean, efficient, and maintainable code! 
+
 <hr>
 
 ###
