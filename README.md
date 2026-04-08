@@ -22,17 +22,17 @@
 
 ###
 
-🔹 <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> **My GitHub Performance Overview**.</h4>
-<div align= "left" style="display: flex; justify-content: center;gap: 40px; ">
-  <img src="https://github-readme-stats.vercel.app/api?username=tamaratumeh&show_icons=true&theme=dark&hide_border=true" 
-       alt="GitHub Stats"
-       height="200px"
-       width="359px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamaratumeh&layout=compact&theme=dark&hide_border=true" 
-       alt="Top Languages"
-       height="200px"
-       width="320px"/>
-</div>
+<br>
+
+🔹 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> <b>My GitHub Performance Overview</b>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tamaratumeh&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" 
+       height="200px"/>
+       
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tamaratumeh&layout=compact&theme=dark&hide_border=true" 
+       height="200px"/>
+</p>
 
 ###
 
